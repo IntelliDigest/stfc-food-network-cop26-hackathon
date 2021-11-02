@@ -1,0 +1,17 @@
+# TECHNOLOGIES
+
+## FRONT-END
+
+
+## API
+
+
+## DATABASE 
+
+
+## ORCHESTRATION
+
+
+# DATASETS
+
+
