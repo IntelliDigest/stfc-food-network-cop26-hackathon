@@ -1,0 +1,17 @@
+API Requests:
+
+For Crop name suggestions:
+https://stfc-api-wrggqo5tiq-lz.a.run.app/crop/name/[STRING]
+
+For Fertilizers related to Crop:
+https://stfc-api-wrggqo5tiq-lz.a.run.app/crop/[CROP_ID]/fertilizers
+
+For Diseases related to Crop:
+https://stfc-api-wrggqo5tiq-lz.a.run.app/crop/[CROP_ID]/diseases
+
+For Pesticide related to Disease:
+https://stfc-api-wrggqo5tiq-lz.a.run.app/crop/[CROP_ID]/disease/[DISEASE_ID]/pesticides
+
+For Specific type of Pesticide related to Disease:
+https://stfc-api-wrggqo5tiq-lz.a.run.app/crop/[CROP_ID]/disease/[DISEASE_ID]/pesticides/[PEST_TYPE]
+
