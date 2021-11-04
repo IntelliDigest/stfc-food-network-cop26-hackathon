@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Crop Helper</string>
+    
+    <string-array name="crop_names">
+        <item>GARLIC</item>
+        <item>ONION</item>
+        <item>CARDAMOM</item>
+        <item>CASHEW</item>
+        <item>BARLEY (JAU)</item>
+        <item>PADDY (DHAN)</item>
+        <item>TRITICALE</item>
+        <item>WHEAT (GEHON)</item>
+        <item>BROCOLLI</item>
+        <item>CABBAGE</item>
+        <item>CAULIFLOWER</item>
+        <item>Chinese cabbage</item>
+        <item>KNOL-KHOL</item>
+        <item>ASH GOURD (PETHA)</item>
+        <item>BITTER GOURD</item>
+        <item>BOTTLE GOURD</item>
+        <item>BUSH SQUASH</item>
+        <item>CUCUMBER</item>
+        <item>INDIAN SQUASH (TINDA/ROUND MELON)</item>
+        <item>IVY GOURD</item>
+        <item>LONG MELON</item>
+        <item>MUSK MELON</item>
+        <item>POINTED GOURD (PARWAL)</item>
+        <item>PUMPKIN</item>
+        <item>RIBBED GOURD (KALI TORI)</item>
+        <item>RIDGE GOURD</item>
+        <item>SMOOTH GUARD</item>
+        <item>SNAKE GOURD</item>
+        <item>SNAP MELON</item>
+        <item>SPONGE GOURD</item>
+        <item>SUMMER SQUASH (VEGETABL MARROW)</item>
+        <item>WATERMELON</item>
+        <item>COTTON (KAPAS)</item>
+        <item>DHAINCHA</item>
+        <item>JUTE</item>
+        <item>ROSELLE (MESTA)</item>
+        <item>SUNNHEMP (PATUA)</item>
+        <item>CARNATION</item>
+        <item>CHINA ASTOR</item>
+        <item>GLADIOLUS</item>
+        <item>ROSE</item>
+        <item>TUBERROSE</item>
+        <item>AFRICAN SARSON</item>
+        <item>ANJAN GRASS</item>
+        <item>BAJRA NAPIER HYBRID</item>
+        <item>BERSEEM (EGYPTIAN CLOVER)</item>
+        <item>BIRDWOOD GRASS</item>
+        <item>BUFFEL GRASS (ANJAN GRASS)</item>
+        <item>DHARAF GRASS (GORIS/CURIA)</item>
+        <item>DINANATH GRASS</item>
+        <item>GOBHI SARSON</item>
+        <item>GOLDEN THIMOTHY</item>
+        <item>GUAR (CLUSTER BEAN/FIELD VETCH)</item>
+        <item>GUINEA GRASS</item>
+        <item>INDIAN CLOVER (SENJI/SWEET CLOVER)</item>
+        <item>LUCERNE (ALFALFA)</item>
+        <item>Maize (fodder)</item>
+        <item>MARVEL GRASS</item>
+        <item>NAPIER GRASS (ELEPHANT GRASS)</item>
+        <item>OAT</item>
+        <item>PERSIAN CLOVER</item>
+        <item>RED CLOVER</item>
+        <item>RICE BEAN (RED BEAN)</item>
+        <item>SEN GRASS</item>
+        <item>SENJI</item>
+        <item>SETARIA GRASS (PIGEON GRASS/NANDI GRASS)</item>
+        <item>Sorghum (fodder)</item>
+        <item>STYLOSANTHES</item>
+        <item>SUDAN GRASS</item>
+        <item>TALL FESCUE GRASS</item>
+        <item>TEOSINTE</item>
+        <item>WHITE CLOVER (SHAFTAL)</item>
+        <item>ACID LIME</item>
+        <item>Apple</item>
+        <item>BANANA</item>
+        <item>GRAPES</item>
+        <item>JACK FRUIT</item>
+        <item>JAMUN</item>
+        <item>MANGO</item>
+        <item>ORANGE</item>
+        <item>PEARS (GAUVA)</item>
+        <item>PINEAPPLE</item>
+        <item>POMEGRANATE</item>
+        <item>BHENDI</item>
+        <item>BRINJAL</item>
+        <item>CAPSICUM</item>
+        <item>CHILLIES</item>
+        <item>TOMATO</item>
+        <item>AMARANTHUS</item>
+        <item>FENUGREEK</item>
+        <item>SPINACH</item>
+        <item>CLUSTER BEAN</item>
+        <item>COWPEA (VEGETABLE)</item>
+        <item>DOLICHOS BEAN</item>
+        <item>INDIAN BEAN (VEGETABLE)</item>
+        <item>PEA (VEGETABLE)</item>
+        <item>RAJMASH BEAN</item>
+        <item>OPIUM  POPPY</item>
+        <item>BANYARD MILLET (KUNDIRAIVALLI/SAWAN)</item>
+        <item>BUCK WHEAT (KASPAT)</item>
+        <item>COMMON MILLET (PANIVARAGU/CHENA/PROSO MILLET/HOG M</item>
+        <item>FINGER MILLET (RAGI/MANDIKA)</item>
+        <item>ITALIAN MILLET (THENAI/NAVANE/FOX TAIL MILLET/KANG</item>
+        <item>KODO MILLET (KODARA/VARAGU)</item>
+        <item>LITTLE MILLET (SAMAI / KUTKI)</item>
+        <item>MAIZE (MAKKA)</item>
+        <item>PEARL MILLET (BAJRA/BULRUSH MILLET/SPIKED MILLET)</item>
+        <item>SORGHUM (JOWAR/GREAT MILLET)</item>
+        <item>GRAIN AMARANTHUS</item>
+        <item>TOBACCO</item>
+        <item>BROWN SARSON</item>
+        <item>CASTOR (REHRI)</item>
+        <item>COCONUT</item>
+        <item>GOBHI SARSON</item>
+        <item>GROUNDNUT (PEA NUT/MUNG PHALLI)</item>
+        <item>INDIAN RAPESEED AND MUSTARD (YELLOW SARSON)</item>
+        <item>JATROPHA</item>
+        <item>KARAN RAI</item>
+        <item>LINSEED (ALSI)</item>
+        <item>NIGER (RAMTIL)</item>
+        <item>RAYA (INDIAN MUSTARD)</item>
+        <item>ROCKET SALAD (TARAMIRA)</item>
+        <item>SAFFLOWER (KUSUM/KARDI)</item>
+        <item>SESAME (GINGELLY/TIL)</item>
+        <item>soybean</item>
+        <item>SOYBEAN (BHAT)</item>
+        <item>SUNFLOWER (SURYAMUKHI)</item>
+        <item>Taramira</item>
+        <item>TORIA</item>
+        <item>KORONDA</item>
+        <item>TUMBA</item>
+        <item>BENGAL GRAM (GRAM/CHICK PEA/KABULI/CHANA)</item>
+        <item>BLACK GRAM (URD BEAN)</item>
+        <item>Cowpea</item>
+        <item>COWPEA (LOBIA/ASPARAGUS BEAN/YARD LONG BEAN)</item>
+        <item>FABA BEAN (HORSE BEAN/WINDSOR BEAN)</item>
+        <item>GREEN GRAM (MOONG BEAN/ MOONG)</item>
+        <item>HORSE GRAM (KULTHI/KULTHA)</item>
+        <item>INDIAN BEAN (FIELD BEAN/ WAL)</item>
+        <item>KHESARI (CHICKLING VETCH/ GRASS PEA)</item>
+        <item>LENTIL (MASUR)</item>
+        <item>LETHYRUS</item>
+        <item>MOCHAI (LAB-LAB)</item>
+        <item>MOTH BEAN (KIDNEY BEAN/ DEWW GRAM)</item>
+        <item>PEAS (FIELD PEAS/ GARDEN PEAS/MATAR)</item>
+        <item>PIGEON PEA (RED GRAM/ARHAR)</item>
+        <item>RAJMA (FRENCH BEAN)</item>
+        <item>WINGED BEAN</item>
+        <item>BEET ROOT (GARDEN BEET/STOCK BEET)</item>
+        <item>CARROT</item>
+        <item>RADISH</item>
+        <item>SWEET POTATO</item>
+        <item>TURNIP (SALJAM)</item>
+        <item>BISHOPS WEED</item>
+        <item>CORIANDER</item>
+        <item>CUMIN</item>
+        <item>FENNEL</item>
+        <item>NUTMEG</item>
+        <item>SUGAR BEET</item>
+        <item>SUGARCANE (NOBLE CANE)</item>
+        <item>TAPIOCA (CASSAVA)</item>
+        <item>Amarphophallus (Surankand/Elephant foot yam)</item>
+        <item>COLOCASIA</item>
+        <item>GINGER</item>
+        <item>Greater Yam</item>
+        <item>Lesser Yam (Rafula)</item>
+        <item>POTATO</item>
+        <item>TURMERIC</item>
+        <item>White Yam</item>
+    </string-array>
+</resources>
